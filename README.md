@@ -33,4 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash3148&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yash3148" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash3148&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Yash3148&limit=5&theme=flat&combine_all_yearly_contributions=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
