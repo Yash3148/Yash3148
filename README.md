@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
 <div align="center"><img src="YS07.jpg"></div>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash3148&label=Profile%20views&color=0e75b6&style=flat" alt="yash3148" /> </p>
 
